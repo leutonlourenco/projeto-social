@@ -13,6 +13,7 @@ html, body {
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
+    overflow: hidden;
 }
 
 main {
@@ -22,13 +23,13 @@ main {
 
 section#telefone {
     position: absolute;
-    top: 50%;
+    top: 22.5%;
     left: 50%;
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
     background-color: blue;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/frame-iphone.png') no-repeat center center;
     
 
 }
