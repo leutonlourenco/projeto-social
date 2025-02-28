@@ -14,7 +14,6 @@ html, body {
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
-    
 }
 
 main {
@@ -31,6 +30,7 @@ section#telefone {
     width: 311px;
     background-color: blue;
     background: url('../imagens/frame-iphone.png') no-repeat center center;
+    
 }
 iframe#tela {
     position: relative;
